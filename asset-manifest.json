@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/music-app/static/css/main.665b993d.chunk.css",
-    "main.js": "/music-app/static/js/main.749f9846.chunk.js",
-    "main.js.map": "/music-app/static/js/main.749f9846.chunk.js.map",
+    "main.css": "/music-app/static/css/main.6141dc84.chunk.css",
+    "main.js": "/music-app/static/js/main.14ac8c53.chunk.js",
+    "main.js.map": "/music-app/static/js/main.14ac8c53.chunk.js.map",
     "runtime~main.js": "/music-app/static/js/runtime~main.b0c3891f.js",
     "runtime~main.js.map": "/music-app/static/js/runtime~main.b0c3891f.js.map",
-    "static/js/2.7cac7df4.chunk.js": "/music-app/static/js/2.7cac7df4.chunk.js",
-    "static/js/2.7cac7df4.chunk.js.map": "/music-app/static/js/2.7cac7df4.chunk.js.map",
+    "static/js/2.8bee7e79.chunk.js": "/music-app/static/js/2.8bee7e79.chunk.js",
+    "static/js/2.8bee7e79.chunk.js.map": "/music-app/static/js/2.8bee7e79.chunk.js.map",
     "index.html": "/music-app/index.html",
-    "precache-manifest.76577275ce071d9fc8e7b5c0ae590d5e.js": "/music-app/precache-manifest.76577275ce071d9fc8e7b5c0ae590d5e.js",
+    "precache-manifest.abcfa9213000d2556722e7d31793d201.js": "/music-app/precache-manifest.abcfa9213000d2556722e7d31793d201.js",
     "service-worker.js": "/music-app/service-worker.js",
-    "static/css/main.665b993d.chunk.css.map": "/music-app/static/css/main.665b993d.chunk.css.map",
+    "static/css/main.6141dc84.chunk.css.map": "/music-app/static/css/main.6141dc84.chunk.css.map",
     "static/media/alfonso-scarpa-e12EkMYv44U-unsplash.jpg": "/music-app/static/media/alfonso-scarpa-e12EkMYv44U-unsplash.36ffb61c.jpg"
   }
 }
